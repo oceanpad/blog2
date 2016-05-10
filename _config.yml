@@ -71,4 +71,3 @@ deploy:
   type:git
   repo:git@github.com:oceanpad/oceanpad.github.io.git
   branch:master
-  message:new
