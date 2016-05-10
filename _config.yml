@@ -68,4 +68,7 @@ theme: spfk
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type:git
+  repo:git@github.com:oceanpad/oceanpad.github.io.git
+  branch:master
+  message:new
